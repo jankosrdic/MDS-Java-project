@@ -1,0 +1,30 @@
+version: '3.9'
+services:
+ # app:
+  #  build:
+  #    context: .
+  #  ports:
+   #   - "8080:8080" 
+  #  environment:
+   #   - JAVA_OPTS=-Djavax.persistence.jdbc.url=jdbc:mysql://db:3306/stockPU
+  #    - JAVA_OPTS=-Djavax.persistence.jdbc.user=stock_user
+   #   - JAVA_OPTS=-Djavax.persistence.jdbc.password=stock_password
+   # depends_on:
+   #   - db
+
+  db:
+    image: mysql:8.0
+    container_name: mds_db
+    ports:
+      - "3316:3316"
+    environment:
+      MYSQL_ROOT_PASSWORD: root_password
+      MYSQL_DATABASE: stockPU
+      MYSQL_USER: stock_user
+      MYSQL_PASSWORD: stock_password
+    volumes:
+      - db_data:/var/lib/mysql 
+
+volumes:
+  db_data:
+

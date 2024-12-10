@@ -1,0 +1,13 @@
+com/mycompany/mds/model/database/entity/Stock.class
+com/mycompany/mds/JakartaRestConfiguration.class
+com/mycompany/mds/model/service/ProfitAnalyzer.class
+com/mycompany/mds/model/database/util/EntityManagerProducer.class
+com/mycompany/mds/controller/ProfitController.class
+com/mycompany/mds/controller/StockController.class
+com/mycompany/mds/model/database/dao/StockDAO.class
+com/mycompany/mds/model/database/util/CSVDataLoader.class
+com/mycompany/mds/resources/JakartaEE8Resource.class
+com/mycompany/mds/model/service/ProfitAnalyzer$ProfitResult.class
+com/mycompany/mds/model/database/dao/StockPriceDAO.class
+com/mycompany/mds/app/DatabaseInitializer.class
+com/mycompany/mds/model/database/entity/StockPrice.class

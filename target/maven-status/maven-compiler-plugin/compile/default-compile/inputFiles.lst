@@ -1,0 +1,12 @@
+/home/anders/NetBeansProjects/Mds/src/main/java/com/mycompany/mds/controller/StockController.java
+/home/anders/NetBeansProjects/Mds/src/main/java/com/mycompany/mds/model/database/util/EntityManagerProducer.java
+/home/anders/NetBeansProjects/Mds/src/main/java/com/mycompany/mds/controller/ProfitController.java
+/home/anders/NetBeansProjects/Mds/src/main/java/com/mycompany/mds/JakartaRestConfiguration.java
+/home/anders/NetBeansProjects/Mds/src/main/java/com/mycompany/mds/model/database/dao/StockDAO.java
+/home/anders/NetBeansProjects/Mds/src/main/java/com/mycompany/mds/app/DatabaseInitializer.java
+/home/anders/NetBeansProjects/Mds/src/main/java/com/mycompany/mds/model/database/entity/StockPrice.java
+/home/anders/NetBeansProjects/Mds/src/main/java/com/mycompany/mds/model/database/entity/Stock.java
+/home/anders/NetBeansProjects/Mds/src/main/java/com/mycompany/mds/model/service/ProfitAnalyzer.java
+/home/anders/NetBeansProjects/Mds/src/main/java/com/mycompany/mds/model/database/dao/StockPriceDAO.java
+/home/anders/NetBeansProjects/Mds/src/main/java/com/mycompany/mds/resources/JakartaEE8Resource.java
+/home/anders/NetBeansProjects/Mds/src/main/java/com/mycompany/mds/model/database/util/CSVDataLoader.java
